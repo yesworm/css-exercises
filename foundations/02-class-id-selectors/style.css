@@ -1,0 +1,22 @@
+
+
+.normal-class,
+.cool-class {
+    background-color:lightcoral;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cool-class {
+    font-size: 24px;
+}
+
+#heading {
+    font-size: 36px;
+    color: blue;
+}
+
+#number-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
